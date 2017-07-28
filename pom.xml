@@ -15,6 +15,8 @@
 
 		<mule.version>3.8.3</mule.version>
 		<mule.tools.version>1.2</mule.tools.version>
+		<munit.version>3.6.2</munit.version>
+		<mule.munit.support.version>3.6.2</mule.munit.support.version>
 		<uid>
 		</uid>
 		<pwd>
